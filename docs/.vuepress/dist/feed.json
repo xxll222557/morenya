@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MoreNya",
+    "home_page_url": "https://nya.btlcraft.top",
+    "feed_url": "https://nya.btlcraft.top/feed.json",
+    "description": "一个小透明的透明世界",
+    "items": [
+        {
+            "id": "https://nya.btlcraft.top/posts/2023/08/27/python311-instruction-specializing.html",
+            "url": "https://nya.btlcraft.top/posts/2023/08/27/python311-instruction-specializing.html",
+            "title": "Python 3.11 核心加速原理——指令特化",
+            "summary": "TIP\n近期在做一些 Python 3.11 的适配工作，结果 Python 3.11 的改动实在是太多了，针对一个一个问题解决并不利于理解 Python 3.11 改动的本质，因此这里稍微花了点时间来调研和整理 Python 3.11 的核心变化。\n",
+            "image": "https://nya.btlcraft.top/../img/python311-instruction-specializing/inline-cache.drawio.png",
+            "date_modified": "2023-08-27T00:00:00.000Z"
+        }
+    ]
+}

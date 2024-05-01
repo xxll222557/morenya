@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nya.btlcraft.top</id>
+    <title>MoreNya</title>
+    <updated>2024-05-01T06:26:25.724Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://nya.btlcraft.top"/>
+    <link rel="self" href="https://nya.btlcraft.top/feed.atom"/>
+    <subtitle>一个小透明的透明世界</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Python 3.11 核心加速原理——指令特化]]></title>
+        <id>https://nya.btlcraft.top/posts/2023/08/27/python311-instruction-specializing.html</id>
+        <link href="https://nya.btlcraft.top/posts/2023/08/27/python311-instruction-specializing.html">
+        </link>
+        <updated>2023-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+近期在做一些 Python 3.11 的适配工作，结果 Python 3.11 的改动实在是太多了，针对一个一个问题解决并不利于理解 Python 3.11 改动的本质，因此这里稍微花了点时间来调研和整理 Python 3.11 的核心变化。
+]]></summary>
+    </entry>
+</feed>
